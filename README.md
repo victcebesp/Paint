@@ -1,7 +1,7 @@
 # Paint
 Víctor Ceballos Espinosa
 
-## Introducción
+## Introducción
 
 Esta práctica tiene por objetivo principal aprender a utilizar P5.js, que es una biblioteca JavaScript que comparte con Processing el objetivo de proporcionar herramientas de programación para fines creativos.
 
